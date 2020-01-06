@@ -1,5 +1,6 @@
 # hitokoto
-
+一个基于vue制作的随机引语生成器
+演示地址:http://kikyoluka.cn/hitokoto/#/
 ## Project setup
 ```
 npm install
