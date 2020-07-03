@@ -22,6 +22,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# kikyoluka.github.io" 
-"# kikyoluka.github.io" 
+See [Configuration Reference](https://cli.vuejs.org/config/). 
